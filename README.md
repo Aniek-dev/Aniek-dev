@@ -79,7 +79,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aniek-dev&show_icons=true&theme=radical&title_color=ff00ff&icon_color=ff00ff&text_color=ffffff&bg_color=0d1117&hide_border=false" alt="Aniek Dev GitHub Stats" />
+  <img src="https://gh-readme-profile.vercel.app/api?username=Aniek-dev&theme=tokyonight" alt="Stats de Aniek" />
+ 
 </p>
 
 ---
