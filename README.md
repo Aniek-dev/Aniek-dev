@@ -56,16 +56,22 @@
     </td>
     <td align="center" width="33%">
       <img src="https://github.com/user-attachments/assets/0d8d61d0-cd37-4244-9b5a-070c657ba6ad" width="123" height="153" alt="La Vieja"><br>
-      <b>❌ Juego La Vieja</b><br>
-      <a href="https://github.com/Aniek-dev/la-vieja-en-java.git">💻 Ver Código</a><br>
-      <sub>Manipulación dinámica del DOM y lógica de juego.</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://github.com/user-attachments/assets/44a5293a-ebc5-4484-99d7-ab0377287eda" width="123" height="153" alt="Calculadora"><br>
-      <b>🧮 Calculadora</b><br>
+     <b>🧮 Calculadora</b><br>
       <a href="https://aniek-dev.github.io/Calculadora-Sencilla/">🌐 Ver Demo</a><br>
       <sub>Interfaz responsiva y lógica optimizada en JavaScript. </sub>
     </td>
+    <td align="center" width="33%">
+      <img src="https://github.com/user-attachments/assets/44a5293a-ebc5-4484-99d7-ab0377287eda" width="123" height="153" alt="Calculadora"><br>
+  <b>❌ Juego La Vieja</b><br>
+      <a href="https://github.com/Aniek-dev/la-vieja-en-java.git">💻 Ver Código</a><br>
+      <sub>Manipulación dinámica del DOM y lógica de juego.</sub>
+
+
+
+
+      
+     
+    
   </tr>
 </table>
 
