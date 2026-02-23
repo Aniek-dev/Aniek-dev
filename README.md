@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/74db83e1-8ef0-452c-b10b-e1bf97188a41" width="100%" alt="Aniek Dev Banner Neon">
+  <img src="https://github.com/user-attachments/assets/74db83e1-8ef0-452c-b10b-e1bf97188a41" width="100%" height:"396px" alt="Aniek Dev Banner Neon">
 </p>
  ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
