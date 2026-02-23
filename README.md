@@ -70,13 +70,13 @@
 </table>
 
 ---
-
 ## 📈 Estadísticas de Git
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aniek-dev&show_icons=true&theme=radical&hide_border=true&align=center" alt="Stats de Ana" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniek-dev&layout=compact&theme=radical&hide_border=true&align=center" alt="Lenguajes más usados" />
-</p>
 
+<p align="center">
+  <img src="https://img.shields.io/github/stars/Aniek-dev?style=social" alt="Stars" />
+  <img src="https://img.shields.io/github/followers/Aniek-dev?style=social" alt="Followers" />
+  <img src="https://img.shields.io/github/languages/count/Aniek-dev?style=social" alt="Languages" />
+</p>
 ---
 <p align="center">
   <img src="https://github.com/user-attachments/assets/399d683e-2874-4f70-86c4-8215a4134f69" width="100%" alt="3Banner">
