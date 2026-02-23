@@ -77,6 +77,11 @@
   <img src="https://img.shields.io/github/followers/Aniek-dev?style=social" alt="Followers" />
   <img src="https://img.shields.io/github/languages/count/Aniek-dev?style=social" alt="Languages" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aniek-dev&show_icons=true&theme=radical&title_color=ff00ff&icon_color=ff00ff&text_color=ffffff&bg_color=0d1117&hide_border=false" alt="Aniek Dev GitHub Stats" />
+</p>
+
 ---
 <p align="center">
   <img src="https://github.com/user-attachments/assets/399d683e-2874-4f70-86c4-8215a4134f69" width="100%" alt="3Banner">
