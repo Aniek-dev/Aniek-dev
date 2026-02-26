@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/23b29e9b-3dc1-4eb3-a91f-458337b8b7c0" width="123" height="153" alt="GIF izquierdo">
+  <img src="https://github.com/user-attachments/assets/23b29e9b-3dc1-4eb3-a91f-458337b8b7c0" width="50" height="45" alt="GIF izquierdo">
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://aniek-dev.github.io/portafolio/" target="_blank">
     <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfolio">
@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/23b29e9b-3dc1-4eb3-a91f-458337b8b7c0" width="123" height="153" alt="GIF derecho">
+  <img src="https://github.com/user-attachments/assets/23b29e9b-3dc1-4eb3-a91f-458337b8b7c0" width="50" height="45" alt="GIF derecho">
 </p>
 
 
