@@ -1,20 +1,26 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/74db83e1-8ef0-452c-b10b-e1bf97188a41" width="100%" height="250px" alt="Aniek Dev Banner Neon">
 </p>
- ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
- 
 
 <p align="center">
+  <img src="https://github.com/user-attachments/assets/23b29e9b-3dc1-4eb3-a91f-458337b8b7c0" width="123" height="153" alt="GIF izquierdo">
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://aniek-dev.github.io/portafolio/" target="_blank">
     <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfolio">
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ana-villarreal-gonzalez/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/23b29e9b-3dc1-4eb3-a91f-458337b8b7c0" width="123" height="153" alt="GIF derecho">
 </p>
- ---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+ ---
 
 
  
